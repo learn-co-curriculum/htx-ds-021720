@@ -10,6 +10,7 @@
 
 ## Module 1
 
-| Lecture Topic                                                      | Date |
-| ------------------------------------------------------------------ | ---- |
-| [Python Libraries: Pandas and Numpy](https://youtu.be/GryfihwNyV0) | 2/20 |
+| Lecture Topic                                                                  | Date |
+| ------------------------------------------------------------------------------ | ---- |
+| [Python Libraries: Pandas and Numpy](https://youtu.be/GryfihwNyV0)             | 2/20 |
+| [Data Cleaning and Statistical Analysis, Part 1](https://youtu.be/VPa8x0uwyls) | 2/21 |
