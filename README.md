@@ -15,3 +15,4 @@
 | [Python Libraries: Pandas and Numpy](https://youtu.be/GryfihwNyV0)             | 2/20 |
 | [Data Cleaning and Statistical Analysis, Part 1](https://youtu.be/VPa8x0uwyls) | 2/21 |
 | [Introduction to SQL](https://youtu.be/u0XrMhtera8)                            | 2/24 |
+| [Effective Visualizations and Presentations](https://youtu.be/cpiCUo_bYhg)     | 2/25 |
