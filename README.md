@@ -17,3 +17,4 @@
 | [Introduction to SQL](https://youtu.be/u0XrMhtera8)                            | 2/24 |
 | [Effective Visualizations and Presentations](https://youtu.be/cpiCUo_bYhg)     | 2/25 |
 | [Introduction to the Cloud](https://youtu.be/Ag9RL1UjqFk)                      | 2/26 |
+| [Introduction to APIs](https://youtu.be/_x3ktXMOpPg)                           | 2/27 |
