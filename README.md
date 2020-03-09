@@ -19,3 +19,10 @@
 | [Introduction to the Cloud](https://youtu.be/Ag9RL1UjqFk)                      | 2/26 |
 | [Introduction to APIs](https://youtu.be/_x3ktXMOpPg)                           | 2/27 |
 | [Introduction to Dynamic Web Scraping](https://youtu.be/S-KQFyWQ5sM)           | 2/28 |
+
+## Module 2
+
+| Lecture Topic                                                                  | Date |
+| ------------------------------------------------------------------------------ | ---- |
+| [Combinatorics, Set Notation and Probability](https://youtu.be/qGoqxf6i_SU)    | 3/09 |
+
