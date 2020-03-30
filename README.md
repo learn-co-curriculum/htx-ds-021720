@@ -27,3 +27,10 @@
 | [Combinatorics, Set Notation and Probability](https://youtu.be/qGoqxf6i_SU)    | 3/09 |
 | [Central Limit Theorem and Confidence Intervals](https://youtu.be/25Vk5eVoOIU) | 3/09 |
 | [Statistical Distributions](https://youtu.be/QQYGPccGXd4)                      | 3/11 |
+
+
+## Module 3
+
+| Lecture Topic                                                                  | Date |
+| ------------------------------------------------------------------------------ | ---- |
+| [Breakout Session: Logistic Regression](https://youtu.be/6Y3N1EQzUPY)          | 3/30 |
