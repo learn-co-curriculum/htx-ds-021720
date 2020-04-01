@@ -34,3 +34,4 @@
 | Lecture Topic                                                                  | Date |
 | ------------------------------------------------------------------------------ | ---- |
 | [Breakout Session: Logistic Regression](https://youtu.be/6Y3N1EQzUPY)          | 3/30 |
+| [Breakout Session: Decision Trees](https://youtu.be/bNVyRMfJFe0)               | 4/01 |
