@@ -31,11 +31,12 @@
 
 ## Module 3
 
-| Lecture Topic                                                                  | Date |
-| ------------------------------------------------------------------------------ | ---- |
-| [Breakout Session: Logistic Regression](https://youtu.be/6Y3N1EQzUPY)          | 3/30 |
-| [Breakout Session: Decision Trees](https://youtu.be/bNVyRMfJFe0)               | 4/01 |
-| [All of Calculus in 90 Minutes](https://youtu.be/YoOT2jOGI0Y)                  | 4/06 |
-| [Gradient Boosting](https://youtu.be/QYq53tFTPGc)                              | 4/07 |
-| [Introduction to Clustering](https://youtu.be/CH-8XJk6_eY)                     | 4/09 |
-| [Hierarchical Clustering](https://youtu.be/C6s3sUtzdRg)                        | 4/10 |
+| Lecture Topic                                                                            | Date |
+| ---------------------------------------------------------------------------------------- | ---- |
+| [Breakout Session: Logistic Regression](https://youtu.be/6Y3N1EQzUPY)                    | 3/30 |
+| [Breakout Session: Decision Trees](https://youtu.be/bNVyRMfJFe0)                         | 4/01 |
+| [Support Vector Machines and Principal Component Analysis](https://youtu.be/OUp6nj-0VdU) | 4/02 |
+| [All of Calculus in 90 Minutes](https://youtu.be/YoOT2jOGI0Y)                            | 4/06 |
+| [Gradient Boosting](https://youtu.be/QYq53tFTPGc)                                        | 4/07 |
+| [Introduction to Clustering](https://youtu.be/CH-8XJk6_eY)                               | 4/09 |
+| [Hierarchical Clustering](https://youtu.be/C6s3sUtzdRg)                                  | 4/10 |
