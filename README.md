@@ -35,4 +35,5 @@
 | ------------------------------------------------------------------------------ | ---- |
 | [Breakout Session: Logistic Regression](https://youtu.be/6Y3N1EQzUPY)          | 3/30 |
 | [Breakout Session: Decision Trees](https://youtu.be/bNVyRMfJFe0)               | 4/01 |
+| [Introduction to Clustering](https://youtu.be/CH-8XJk6_eY)                     | 4/09 |
 | [Hierarchical Clustering](https://youtu.be/C6s3sUtzdRg)                        | 4/10 |
