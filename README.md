@@ -34,6 +34,7 @@
 | Lecture Topic                                                                            | Date |
 | ---------------------------------------------------------------------------------------- | ---- |
 | [Breakout Session: Logistic Regression](https://youtu.be/6Y3N1EQzUPY)                    | 3/30 |
+| [Introduction to Ensemble Methods (Random Forests](https://youtu.be/7MuzJ40f29g)         | 4/01 |
 | [Breakout Session: Decision Trees](https://youtu.be/bNVyRMfJFe0)                         | 4/01 |
 | [All of Linear Algebra in 90 Minutes](https://youtu.be/J8Sq_V7lIHM)                      | 4/02 |
 | [Support Vector Machines and Principal Component Analysis](https://youtu.be/OUp6nj-0VdU) | 4/03 |
