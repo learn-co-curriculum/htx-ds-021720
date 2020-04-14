@@ -33,6 +33,7 @@
 
 | Lecture Topic                                                                            | Date |
 | ---------------------------------------------------------------------------------------- | ---- |
+| [Introduction to Logistic Regression](https://youtu.be/blyPd8TfeEM)                      | 3/30 |
 | [Breakout Session: Logistic Regression](https://youtu.be/6Y3N1EQzUPY)                    | 3/30 |
 | [Feature Engineering (Through Horse Racing Data)](https://youtu.be/dMDSXv_YuQ0)          | 3/31 |
 | [Introduction to Ensemble Methods (Random Forests](https://youtu.be/7MuzJ40f29g)         | 4/01 |
