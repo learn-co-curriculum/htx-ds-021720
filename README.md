@@ -44,3 +44,9 @@
 | [Gradient Boosting](https://youtu.be/QYq53tFTPGc)                                        | 4/07 |
 | [Introduction to Clustering](https://youtu.be/CH-8XJk6_eY)                               | 4/09 |
 | [Hierarchical Clustering](https://youtu.be/C6s3sUtzdRg)                                  | 4/10 |
+
+## Module 4
+
+| Lecture Topic                                           | Date |
+| ------------------------------------------------------- | ---- |
+| [Time Series, Part 1](https://youtu.be/JQss0MV16_4)     | 4/21 |
