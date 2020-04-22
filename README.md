@@ -49,4 +49,6 @@
 
 | Lecture Topic                                           | Date |
 | ------------------------------------------------------- | ---- |
+| [Recommendation Systems](https://youtu.be/7qo2qvBNatI)  | 4/20 |
 | [Time Series, Part 1](https://youtu.be/JQss0MV16_4)     | 4/21 |
+
