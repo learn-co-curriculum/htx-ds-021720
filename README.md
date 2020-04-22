@@ -47,8 +47,10 @@
 
 ## Module 4
 
-| Lecture Topic                                                            | Date |
-| ------------------------------------------------------------------------ | ---- |
-| [Recommendation Systems](https://youtu.be/7qo2qvBNatI)                   | 4/20 |
-| [Time Series, Part 1](https://youtu.be/JQss0MV16_4)                      | 4/21 |
-| [Breakout Session: Recommendation Systems](https://youtu.be/AsuyxjduXak) | 4/21 |
+| Lecture Topic                                                                     | Date |
+| --------------------------------------------------------------------------------- | ---- |
+| [Recommendation Systems](https://youtu.be/7qo2qvBNatI)                            | 4/20 |
+| [Time Series, Part 1](https://youtu.be/JQss0MV16_4)                               | 4/21 |
+| [Breakout Session: Recommendation Systems Practice](https://youtu.be/AsuyxjduXak) | 4/21 |
+| [Time Series, Part 2](https://youtu.be/PKDRJ43BoR4)                               | 4/22 |
+| [Breakout Session: Time Series Practice](https://youtu.be/AwusblLYL1k)            | 4/22 |
