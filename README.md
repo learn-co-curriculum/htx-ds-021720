@@ -54,3 +54,4 @@
 | [Breakout Session: Recommendation Systems Practice](https://youtu.be/AsuyxjduXak) | 4/21 |
 | [Time Series, Part 2](https://youtu.be/PKDRJ43BoR4)                               | 4/22 |
 | [Breakout Session: Time Series Practice](https://youtu.be/AwusblLYL1k)            | 4/22 |
+| [Breakout Session: PCA & Clustering Practice](https://youtu.be/lEcRBxODB7I)       | 4/24 |
