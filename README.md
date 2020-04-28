@@ -55,3 +55,4 @@
 | [Time Series, Part 2](https://youtu.be/PKDRJ43BoR4)                               | 4/22 |
 | [Breakout Session: Time Series Practice](https://youtu.be/AwusblLYL1k)            | 4/22 |
 | [Breakout Session: PCA & Clustering Practice](https://youtu.be/lEcRBxODB7I)       | 4/24 |
+| [Breakout Session: Module 4 Assessment Review](https://youtu.be/heQVXjbC2J4)      | 4/28 |
