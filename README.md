@@ -61,3 +61,4 @@
 | [Natural Language Processing](https://youtu.be/CS2kqbUE1tY)                       | 4/27 |
 | [Multi-Layer Perceptrons](https://youtu.be/lq-iSzCeZ3Y)                           | 4/28 |
 | [Breakout Session: Module 4 Assessment Review](https://youtu.be/heQVXjbC2J4)      | 4/28 |
+| [Convolutional Neural Networks](https://youtu.be/b4quDC34hVo)                     | 5/06 |
