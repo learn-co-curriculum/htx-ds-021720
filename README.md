@@ -59,4 +59,5 @@
 | [Breakout Session: PCA & Clustering Practice](https://youtu.be/lEcRBxODB7I)       | 4/24 |
 | [Introduction to Deep Learning](https://youtu.be/jL73dq-d2uI)                     | 4/27 |
 | [Natural Language Processing](https://youtu.be/CS2kqbUE1tY)                       | 4/27 |
+| [Multi-Layer Perceptrons](https://youtu.be/lq-iSzCeZ3Y)                           | 4/28 |
 | [Breakout Session: Module 4 Assessment Review](https://youtu.be/heQVXjbC2J4)      | 4/28 |
