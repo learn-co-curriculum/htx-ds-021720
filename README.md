@@ -57,4 +57,5 @@
 | [Time Series, Part 3](https://youtu.be/z0NFgj5iGNw)                               | 4/23 |
 | [Time Series, Part 4](https://youtu.be/o4oBxZTPd0I)                               | 4/24 |
 | [Breakout Session: PCA & Clustering Practice](https://youtu.be/lEcRBxODB7I)       | 4/24 |
+| [Introduction to Deep Learning](https://youtu.be/jL73dq-d2uI)                     | 4/27 |
 | [Breakout Session: Module 4 Assessment Review](https://youtu.be/heQVXjbC2J4)      | 4/28 |
